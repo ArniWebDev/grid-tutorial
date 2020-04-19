@@ -1,1 +1,43 @@
+body {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
 
+div {
+  border: 1px solid black;
+}
+
+.grid-container {
+  width: 960px;
+  margin: 0 auto;
+  display: grid;
+}
+
+.grid-container div {
+  padding: 40px;
+}
+
+.d1 {
+  background-color: #e74c3c;
+}
+
+.d2 {
+  background-color: #27ae60;
+}
+
+.d3 {
+  background-color: #f1c40f;
+}
+
+.d4 {
+  background-color: #34495e;
+}
+
+.d5 {
+  background-color: #f39c12;
+}
+
+.d6 {
+  background-color: #3498db;
+}
